@@ -8,3 +8,4 @@
    - Python
    - Shell
    - JS
+   - Bash
